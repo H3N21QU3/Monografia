@@ -1,7 +1,7 @@
 # Previsão de Custo de Viagens por Aplicativo
 
 #### Alun(o/a): [Carlos Henrique A. Silva](https://github.com/H3N21QU3/).
-#### Orientador(/a/es/as): [Leonardo Mendoza](https://github.com/orgs/ICA-cursos).
+#### Orientador(/a/es/as): [Leonardo Mendoza](https://github.com/leofome8).
 
 
 ---
