@@ -17,11 +17,13 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 A utilização de meios de transporte por aplicativo já faz parte do nosso cotidiano. A proposta desse trabalho é utilizar uma base de dados do Kaggle da empresa Chh-OLA de Nova Delhi para gerar estimativa de corridas.
 A idéia é avaliar o ganho de conhecimento do aluno no BI Master e verificar o quão próximo dos dados reais e das primeiras colocações da competição o mesmo consegue chegar.
+Foram utilizados quatro modelos de regressão linear Random Forest, Ada Boost, Gradient Boost e XgBoost. Ao comparar seus desempenhos na previsão de dados desconhecidos, Gradient Boost foi o que teve melhor performace.
 
 ### Abstract <!-- Opcional! Caso não aplicável, remover esta seção -->
 
 The use of means of transport per application is already part of our daily lives. The purpose of this work is to use a Kaggle database from the company Chh-OLA in New Delhi to generate an estimate of runs.
 The idea is to assess the student's knowledge gain in the BI Master and see how close to real data and the first places in the competition the student can get.
+Four linear regression models; Random Forest, Ada Boost, Gradient Boost and XgBoost were used. When comparing their performance in predicting unknown data, Gradient Boost was the best performer.
 
 ---
 
